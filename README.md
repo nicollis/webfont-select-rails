@@ -40,6 +40,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/nicoll
 ## Changelog
 
 * 2016-10-24 -- v0.1.4 -- Initial public release with tested Google support
+* 2016-10-26 -- v0.1.5 -- Updated to webfont-select v0.1.5
 
 ## Author
 
