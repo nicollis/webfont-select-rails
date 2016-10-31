@@ -41,6 +41,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/nicoll
 
 * 2016-10-24 -- v0.1.4 -- Initial public release with tested Google support
 * 2016-10-26 -- v0.1.5 -- Updated to webfont-select v0.1.5
+* 2016-10-31 -- v0.1.6 -- Updated webfont-select (Fixed issue with font generation when font had 3+ words)
 
 ## Author
 
