@@ -43,6 +43,8 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/nicoll
 * 2016-10-26 -- v0.1.5 -- Updated to webfont-select v0.1.5
 * 2016-10-31 -- v0.1.6 -- Updated webfont-select (Fixed issue with font generation when font had 3+ words)
 * 2016-11-01 -- v0.2.0 -- Updated webfont-select (Enabled type-to-filter input)
+* 2016-11-01 -- v0.3.0 -- Updated webfont-select (Enabled load_all_fonts option to enable loading all fonts on page load)
+* 2016-11-01 -- v0.3.2 -- Updated webfont-select (Fixed load bug when pre-loading large font list, fixed bug with downloading already downloaded fonts)
 
 ## Author
 
