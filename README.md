@@ -46,6 +46,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/nicoll
 * 2016-11-01 -- v0.3.0 -- Updated webfont-select (Enabled load_all_fonts option to enable loading all fonts on page load)
 * 2016-11-01 -- v0.3.2 -- Updated webfont-select (Fixed load bug when pre-loading large font list, fixed bug with downloading already downloaded fonts)
 * 2016-11-03 -- v0.3.3 -- Updated webfont-select (Added timeout to all fonts load to help break up large font load-ins)
+* 2016-11-06 -- v0.4.0 -- Updated webfont-select (First font in list is now selected while typing, enter key selects first font and closes dropdown)
 
 ## Author
 
