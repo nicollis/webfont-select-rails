@@ -48,6 +48,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/nicoll
 * 2016-11-03 -- v0.3.3 -- Updated webfont-select (Added timeout to all fonts load to help break up large font load-ins)
 * 2016-11-06 -- v0.4.0 -- Updated webfont-select (First font in list is now selected while typing, enter key selects first font and closes dropdown)
 * 2016-11-07 -- v0.4.1 -- Updated webfont-select (Changed font_url to updated to highlighted font while typing in font name, before hitting enter)
+* 2016-11-07 -- v0.4.2 -- Update webfont-select (Moved trigger to end of select font call so element is fully updated before triggering callback)
 
 ## Author
 
