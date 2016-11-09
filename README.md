@@ -50,6 +50,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/nicoll
 * 2016-11-07 -- v0.4.1 -- Updated webfont-select (Changed font_url to updated to highlighted font while typing in font name, before hitting enter)
 * 2016-11-07 -- v0.4.2 -- Update webfont-select (Moved trigger to end of select font call so element is fully updated before triggering callback)
 * 2016-11-08 -- v0.5.0 -- Update webfont-select (Implemented default_font_name option to generate url when unknown font is typed...)
+* 2016-11-08 -- v0.5.1 -- Update webfont-select (Updated trigger to work via bind and include same payload data as "change")
 
 ## Author
 
